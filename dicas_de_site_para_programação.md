@@ -1,0 +1,16 @@
+# Site para apreender a programação
+
+🔗 HTML → w3schools.com (https://www.w3schools.com/) 
+🔗 CSS → codecademy.com (https://www.codecademy.com/) 
+🔗 JavaScript → freecodecamp.com (https://www.freecodecamp.org/) 
+🔗 React → react.dev (https://react.dev/) 
+🔗 Python → learnpython.org (https://learnpython.org/) 
+🔗 Java → sololearn.com (https://www.sololearn.com/pt/) 
+🔗 PHP → php.net (https://www.php.net/) 
+🔗 Cybersecurity → tryhackme.com (https://tryhackme.com/) 
+🔗 C → learn-c.org (https://learn-c.org/) 
+🔗 C++ → learncpp.com (https://learncpp.com/) 
+🔗 AWS → skillbuilder.aws (https://skillbuilder.aws/) 
+🔗 IA / ML → coursera.org (https://www.coursera.org/) 
+🔗 Git → learngitbranching.js.org (https://learngitbranching.js.org/?locale=pt_BR) 
+🔗 SQL → sqlbolt.com (https://sqlbolt.com/)
