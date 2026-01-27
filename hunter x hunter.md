@@ -13,7 +13,7 @@
 
 5. Hunter x Hunter (2011) — Episódios 76–148
 
-▶️ Ordem 2 (Misturando as duas versões)
+### ▶️ Ordem 2 (Misturando as duas versões)
 
 1. Hunter x Hunter (1999) — Episódios 1–62
 
